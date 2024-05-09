@@ -1,4 +1,4 @@
-# Rotating-the-Gaming-Object
+# EX - 1 Rotating-the-Gaming-Object
 
 ## Aim :
 
